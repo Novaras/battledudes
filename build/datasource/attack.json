@@ -1,0 +1,105 @@
+{
+    "data": [
+        {
+            "name": "Just A Regular Punch",
+            "power": 80,
+            "accuracy": 100,
+            "priority": 0,
+            "affinities": [
+                "Normal"
+            ]
+        },
+        {
+            "name": "Deoderant plus Lighter",
+            "power": 60,
+            "accuracy": 100,
+            "priority": 0,
+            "affinities": [
+                "Fire"
+            ]
+        },
+        {
+            "name": "New Mixtape",
+            "power": 100,
+            "accuracy": 70,
+            "priority": 0,
+            "affinities": [
+                "Fire",
+                "Lightning"
+            ]
+        },
+        {
+            "name": "Water Pistol",
+            "power": 40,
+            "accuracy": 90,
+            "priority": 1,
+            "affinities": [
+                "Water"
+            ]
+        },
+        {
+            "name": "Bucket Of Water",
+            "power": 90,
+            "accuracy": "Infinity",
+            "priority": -1,
+            "affinities": [
+                "Water"
+            ]
+        },
+        {
+            "name": "Wooly Socks plus Carpet",
+            "power": 60,
+            "accuracy": "Infinity",
+            "priority": 0,
+            "affinities": [
+                "Lightning"
+            ]
+        },
+        {
+            "name": "An Entire Fridge-Freezer",
+            "power": 130,
+            "accuracy": 50,
+            "priority": -2,
+            "affinities": [
+                "Ice",
+                "Lightning"
+            ]
+        },
+        {
+            "name": "Inexplicably Cold Hands",
+            "power": 70,
+            "accuracy": 95,
+            "priority": 0,
+            "affinities": [
+                "Ice"
+            ]
+        },
+        {
+            "name": "A Nearby Rock",
+            "power": 90,
+            "accuracy": 80,
+            "priority": 0,
+            "affinities": [
+                "Earth"
+            ]
+        },
+        {
+            "name": "Pocket Sand",
+            "power": 30,
+            "accuracy": "Infinity",
+            "priority": 2,
+            "affinities": [
+                "Earth"
+            ]
+        },
+        {
+            "name": "A Pretty Rude Headbutt",
+            "power": 65,
+            "accuracy": 100,
+            "priority": 0,
+            "affinities": [
+                "Normal"
+            ]
+        }
+    ]
+}

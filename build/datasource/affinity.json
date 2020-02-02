@@ -1,0 +1,61 @@
+{
+    "data": [
+        {
+            "name": "Normal",
+            "weaknesses": [],
+            "resistances": []
+        },
+        {
+            "name": "Fire",
+            "weaknesses": [
+                "Water",
+                "Earth"
+            ],
+            "resistances": [
+                "Fire",
+                "Ice"
+            ]
+        },
+        {
+            "name": "Water",
+            "weaknesses": [
+                "Lightning",
+                "Ice"
+            ],
+            "resistances": [
+                "Fire",
+                "Water"
+            ]
+        },
+        {
+            "name": "Ice",
+            "weaknesses": [
+                "Fire"
+            ],
+            "resistances": [
+                "Earth",
+                "Water"
+            ]
+        },
+        {
+            "name": "Lightning",
+            "weaknesses": [
+                "Earth"
+            ],
+            "resistances": [
+                "Lightning"
+            ]
+        },
+        {
+            "name": "Earth",
+            "weaknesses": [
+                "Water",
+                "Ice"
+            ],
+            "resistances": [
+                "Fire",
+                "Lightning"
+            ]
+        }
+    ]
+}

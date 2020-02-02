@@ -1,0 +1,14 @@
+{
+    "name": "root",
+    "display_text": "Action:",
+    "children": [
+        {
+            "name": "attack",
+            "display_text": "Attack:"
+        },
+        {
+            "name": "switch",
+            "display_text": "Switch:"
+        }
+    ]
+}
